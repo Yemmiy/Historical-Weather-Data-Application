@@ -52,6 +52,7 @@ Phase 4: Integration with Open-Meteo API
 Integrated the Open-Meteo API to retrieve additional weather data such as maximum temperature,
 minimum temperature, mean temperature, and precipitation sum.
 Updated the SQLite database with the retrieved data using an update_database function.
+
 Summary:
 This project focuses on leveraging Python and SQLite to manage, analyze, and visualize weather data.
 It includes database operations, API integration for data retrieval, and interactive data visualization to 
