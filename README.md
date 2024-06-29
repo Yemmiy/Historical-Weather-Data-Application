@@ -1,4 +1,5 @@
 Aim of the Project
+
 This project involves managing and analyzing weather data stored in an SQLite database using Python,
 specifically focusing on data retrieval from an external API (Open-Meteo), data visualization,perform various data analysis and
 querying the database for various weather-related metrics.
