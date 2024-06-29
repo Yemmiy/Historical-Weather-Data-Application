@@ -1,5 +1,4 @@
-# Author: OPEYEMI GRACE AGESHIN
-# Student ID: D3339558
+
 
 import sqlite3
 
